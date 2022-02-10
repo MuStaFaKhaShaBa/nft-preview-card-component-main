@@ -95,8 +95,3 @@ body {
 .container .Creater-info p span:hover {
     color: hsl(178, 100%, 50%);
 }
-@media (max-width:767px) {
-    body{
-        height: 120vh;
-    }
-}
